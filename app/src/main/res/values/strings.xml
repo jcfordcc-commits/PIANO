@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AetherKeys</string>
+    <string name="studio_tagline">Harmonic Resonance Studio</string>
+    <string name="cd_studio_settings">Open Sound &amp; Studio Settings</string>
+    <string name="cd_octave_down">Shift Octave Down</string>
+    <string name="cd_octave_up">Shift Octave Up</string>
+    <string name="cd_sustain_pedal">Toggle Sustain Pedal</string>
+    <string name="cd_dual_manual">Toggle Dual Manual Keybed</string>
+    <string name="cd_metronome">Toggle Metronome</string>
+    <string name="cd_shimmer_mode">Cycle Aether Shimmer Echo</string>
+    <string name="cd_looper_panel">Toggle Phrase Looper</string>
+    <string name="cd_soundboard_art">AetherKeys acoustic soundboard crest</string>
+    <string name="label_sustain">SUSTAIN</string>
+    <string name="label_shimmer">SHIMMER</string>
+    <string name="label_dual_keys">DUAL</string>
+    <string name="label_single_keys">GRAND</string>
+    <string name="label_chord_idle">Play keys or chords to illuminate the harmonic field</string>
+    <string name="label_sound_studio">Sound &amp; Resonance Studio</string>
+    <string name="label_scale_compass">Scale Compass</string>
+    <string name="label_aether_shimmer">Aether Shimmer Echo</string>
+    <string name="label_key_labels">Show Note Labels</string>
+    <string name="label_velocity_touch">Y-Axis Touch Velocity</string>
+    <string name="label_scale_snap">Scale Lock Assist</string>
+    <string name="label_reverb_echo">Hall Shimmer Mix</string>
+    <string name="label_bpm">Tempo</string>
+    <string name="label_looper_title">3-Track Phrase Looper</string>
+    <string name="label_clear_all">Clear All</string>
+    <string name="label_close">Done</string>
+</resources>

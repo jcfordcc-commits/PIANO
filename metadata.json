@@ -1,0 +1,6 @@
+{
+  "name": "AetherKeys",
+  "description": "An expressive polyphonic piano and harmonic resonance studio with real-time cymatics, chord intelligence, and multi-track phrase looping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
